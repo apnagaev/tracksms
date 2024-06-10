@@ -9,7 +9,10 @@ in traccar you can configure sms notification:
 <entry key='sms.http.template'>userphone={phone}&amp;text={message}</entry>
 ```
 
-you can dockerize it docker build -t tracksms .
+you can dockerize it
+```
+docker build -t tracksms .
+```
 
 in docker compose:
 ```
