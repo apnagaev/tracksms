@@ -1,0 +1,4 @@
+[
+    {"devid": "10", "userphone": "notfill", "chatid": "-1111111111"},
+    {"devid": "88", "userphone": "notfill", "chatid": "-2222222222"}
+]
